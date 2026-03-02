@@ -248,11 +248,6 @@ This foundation connects directly with:
 4. What is interoperability?
 5. What is loose coupling?
 
-Yesss 🔥 These are classic viva / interview questions.
-I’ll give you **clear, short, exam-ready answers** — easy to remember and write.
-
-You can copy directly.
-
 ---
 
 ## 1️⃣ What is a Web Service?
