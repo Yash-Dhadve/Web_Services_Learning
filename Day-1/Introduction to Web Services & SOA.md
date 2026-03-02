@@ -247,3 +247,72 @@ This foundation connects directly with:
 3. Difference between SOAP and REST?
 4. What is interoperability?
 5. What is loose coupling?
+
+Yesss 🔥 These are classic viva / interview questions.
+I’ll give you **clear, short, exam-ready answers** — easy to remember and write.
+
+You can copy directly.
+
+---
+
+## 1️⃣ What is a Web Service?
+
+A **Web Service** is a software component that allows two applications to communicate with each other over a network using standard protocols like HTTP, XML, or JSON.
+
+It enables platform-independent and language-independent communication between systems.
+
+Example: A bank server providing `getBalance()` that can be accessed by a mobile app or website.
+
+---
+
+## 2️⃣ What is SOA?
+
+**SOA (Service Oriented Architecture)** is an architectural style where applications are built using small, reusable, and independent services.
+
+Each service performs a specific task and communicates with other services over a network.
+
+SOA promotes:
+
+* Reusability
+* Loose coupling
+* Scalability
+* Flexibility
+
+---
+
+## 3️⃣ Difference Between SOAP and REST
+
+| Feature       | SOAP               | REST                |
+| ------------- | ------------------ | ------------------- |
+| Type          | Protocol           | Architectural style |
+| Data Format   | XML only           | JSON, XML, etc.     |
+| Speed         | Slower             | Faster              |
+| Complexity    | High               | Simple              |
+| Security      | High (WS-Security) | Moderate            |
+| WSDL Required | Yes                | No                  |
+
+Short Answer Version:
+
+SOAP is a strict XML-based protocol, while REST is a lightweight architectural style that commonly uses JSON.
+
+---
+
+## 4️⃣ What is Interoperability?
+
+**Interoperability** is the ability of different systems, platforms, or programming languages to communicate and work together.
+
+Example: A Java application communicating with a .NET application using web services.
+
+---
+
+## 5️⃣ What is Loose Coupling?
+
+**Loose Coupling** means that services or components are independent of each other.
+
+Changes in one service do not affect other services.
+
+It improves:
+
+* Maintainability
+* Scalability
+* Flexibility
