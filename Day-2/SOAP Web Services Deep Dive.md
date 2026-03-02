@@ -237,12 +237,3 @@ Do this manually in Notepad:
 | RPC vs Document Comparison | 30 min   |
 | Revise Day 1 + Day 2       | 1 hr     |
 
----
-
-## 🔜 Coming Next (Day 3 Preview)
-
-* WSDL Deep Dive
-* Elements of WSDL
-* How SOAP + WSDL connect
-* Binding and Port types
-* Real service definition understanding
